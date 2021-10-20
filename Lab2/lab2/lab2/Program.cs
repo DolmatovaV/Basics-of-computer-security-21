@@ -1,8 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Linq;
-using System.Security.Cryptography;
-using System.Text;
+
 
 namespace lab2
 {
@@ -36,7 +35,7 @@ namespace lab2
             File.WriteAllBytes("text.dat", encData);
             Console.WriteLine("Unscripted text after decryption:");
 
-            byte[] encDataNew = File.ReadAllBytes("text.txt").ToArray();
+            
             byte[] decDataNew = new byte[decData.Length];
             for (int i = 0; i < decData.Length; i++)
             {
