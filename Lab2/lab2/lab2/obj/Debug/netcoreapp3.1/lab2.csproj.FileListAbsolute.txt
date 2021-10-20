@@ -1,0 +1,14 @@
+D:\University\CompSec\Lab2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+D:\University\CompSec\Lab2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+D:\University\CompSec\Lab2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+D:\University\CompSec\Lab2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+D:\University\CompSec\Lab2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+D:\University\CompSec\Lab2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+D:\University\CompSec\Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.AssemblyReference.cache
+D:\University\CompSec\Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\CompSec\Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+D:\University\CompSec\Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+D:\University\CompSec\Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+D:\University\CompSec\Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+D:\University\CompSec\Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+D:\University\CompSec\Lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache

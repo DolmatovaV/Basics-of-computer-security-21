@@ -1,0 +1,2 @@
+text abc
+some numbers 12345 and symbols/*-+
