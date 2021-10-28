@@ -1,0 +1,14 @@
+D:\University\CompSec\Lab3\Lab3t3\bin\Debug\netcoreapp3.1\Lab3t3.exe
+D:\University\CompSec\Lab3\Lab3t3\bin\Debug\netcoreapp3.1\Lab3t3.deps.json
+D:\University\CompSec\Lab3\Lab3t3\bin\Debug\netcoreapp3.1\Lab3t3.runtimeconfig.json
+D:\University\CompSec\Lab3\Lab3t3\bin\Debug\netcoreapp3.1\Lab3t3.runtimeconfig.dev.json
+D:\University\CompSec\Lab3\Lab3t3\bin\Debug\netcoreapp3.1\Lab3t3.dll
+D:\University\CompSec\Lab3\Lab3t3\bin\Debug\netcoreapp3.1\Lab3t3.pdb
+D:\University\CompSec\Lab3\Lab3t3\obj\Debug\netcoreapp3.1\Lab3t3.csproj.AssemblyReference.cache
+D:\University\CompSec\Lab3\Lab3t3\obj\Debug\netcoreapp3.1\Lab3t3.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\CompSec\Lab3\Lab3t3\obj\Debug\netcoreapp3.1\Lab3t3.AssemblyInfoInputs.cache
+D:\University\CompSec\Lab3\Lab3t3\obj\Debug\netcoreapp3.1\Lab3t3.AssemblyInfo.cs
+D:\University\CompSec\Lab3\Lab3t3\obj\Debug\netcoreapp3.1\Lab3t3.csproj.CoreCompileInputs.cache
+D:\University\CompSec\Lab3\Lab3t3\obj\Debug\netcoreapp3.1\Lab3t3.dll
+D:\University\CompSec\Lab3\Lab3t3\obj\Debug\netcoreapp3.1\Lab3t3.pdb
+D:\University\CompSec\Lab3\Lab3t3\obj\Debug\netcoreapp3.1\Lab3t3.genruntimeconfig.cache
