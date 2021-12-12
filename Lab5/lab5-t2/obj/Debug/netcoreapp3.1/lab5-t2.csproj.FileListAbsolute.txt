@@ -1,0 +1,14 @@
+D:\University\CompSec\Lab5\lab5-t2\obj\Debug\netcoreapp3.1\lab5-t2.csproj.AssemblyReference.cache
+D:\University\CompSec\Lab5\lab5-t2\obj\Debug\netcoreapp3.1\lab5-t2.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\CompSec\Lab5\lab5-t2\obj\Debug\netcoreapp3.1\lab5-t2.AssemblyInfoInputs.cache
+D:\University\CompSec\Lab5\lab5-t2\obj\Debug\netcoreapp3.1\lab5-t2.AssemblyInfo.cs
+D:\University\CompSec\Lab5\lab5-t2\obj\Debug\netcoreapp3.1\lab5-t2.csproj.CoreCompileInputs.cache
+D:\University\CompSec\Lab5\lab5-t2\bin\Debug\netcoreapp3.1\lab5-t2.exe
+D:\University\CompSec\Lab5\lab5-t2\bin\Debug\netcoreapp3.1\lab5-t2.deps.json
+D:\University\CompSec\Lab5\lab5-t2\bin\Debug\netcoreapp3.1\lab5-t2.runtimeconfig.json
+D:\University\CompSec\Lab5\lab5-t2\bin\Debug\netcoreapp3.1\lab5-t2.runtimeconfig.dev.json
+D:\University\CompSec\Lab5\lab5-t2\bin\Debug\netcoreapp3.1\lab5-t2.dll
+D:\University\CompSec\Lab5\lab5-t2\bin\Debug\netcoreapp3.1\lab5-t2.pdb
+D:\University\CompSec\Lab5\lab5-t2\obj\Debug\netcoreapp3.1\lab5-t2.dll
+D:\University\CompSec\Lab5\lab5-t2\obj\Debug\netcoreapp3.1\lab5-t2.pdb
+D:\University\CompSec\Lab5\lab5-t2\obj\Debug\netcoreapp3.1\lab5-t2.genruntimeconfig.cache
