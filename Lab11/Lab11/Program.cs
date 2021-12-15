@@ -80,7 +80,6 @@ namespace Lab11
                     Console.WriteLine("Wrong password");
                     return false;
                 }
-
             }
             else
             {
@@ -91,15 +90,10 @@ namespace Lab11
 
         public static void LogIn(string userName, string password)
         {
-            // Перевірка пароля
             if (CheckPassword(userName, password))
             {
-                // Створюється екземпляр автентифікованого користувача
                 var identity = new GenericIdentity(userName, "OIBAuth");
-            // Виконується прив’язка до ролей, до яких належить користувач
                 var principal = new GenericPrincipal(identity, _users[userName].Roles);
-                // Створений екземпляр автентифікованого користувача з відповідними
-                // ролями присвоюється потоку, в якому виконується програма
                 System.Threading.Thread.CurrentPrincipal = principal;
             }
         }
@@ -175,13 +169,13 @@ namespace Lab11
                 Console.WriteLine("Now you can log in");
                 Console.WriteLine();
                 Console.Write("Enter login: ");
-                string enteredLogin = Convert.ToString(Console.ReadLine());
+                string entLog = Convert.ToString(Console.ReadLine());
                 Console.Write("Enter password: ");
-                string enteredPassword = Convert.ToString(Console.ReadLine());
+                string entPass = Convert.ToString(Console.ReadLine());
 
-                if (Protector.CheckPassword(enteredLogin, enteredPassword))
+                if (Protector.CheckPassword(entLog, entPass))
                 {
-                    Protector.LogIn(enteredLogin, enteredPassword);
+                    Protector.LogIn(entLog, entPass);
 
                 }
 
