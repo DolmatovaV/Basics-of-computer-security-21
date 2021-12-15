@@ -1,0 +1,14 @@
+D:\University\CompSec\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.csproj.AssemblyReference.cache
+D:\University\CompSec\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\CompSec\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.AssemblyInfoInputs.cache
+D:\University\CompSec\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.AssemblyInfo.cs
+D:\University\CompSec\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.csproj.CoreCompileInputs.cache
+D:\University\CompSec\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.exe
+D:\University\CompSec\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.deps.json
+D:\University\CompSec\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.runtimeconfig.json
+D:\University\CompSec\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.runtimeconfig.dev.json
+D:\University\CompSec\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.dll
+D:\University\CompSec\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.pdb
+D:\University\CompSec\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.dll
+D:\University\CompSec\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.pdb
+D:\University\CompSec\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.genruntimeconfig.cache
