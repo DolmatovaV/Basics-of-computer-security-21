@@ -176,34 +176,34 @@ namespace Lab11
                 if (Protector.CheckPassword(entLog, entPass))
                 {
                     Protector.LogIn(entLog, entPass);
+                    try
+                    {
+                        Protector.UserFeature();
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"{ex.GetType()}: {ex.Message}");
+                    }
+                    try
+                    {
+                        Protector.ModerFeature();
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"{ex.GetType()}: {ex.Message}");
+                    }
 
+                    try
+                    {
+                        Protector.OnlyForAdminsFeature();
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine($"{ex.GetType()}: {ex.Message}");
+                    }
                 }
 
-                try
-                {
-                    Protector.UserFeature();
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine($"{ex.GetType()}: {ex.Message}");
-                }
-                try
-                {
-                    Protector.ModerFeature();
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine($"{ex.GetType()}: {ex.Message}");
-                }
 
-                try
-                {
-                    Protector.OnlyForAdminsFeature();
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine($"{ex.GetType()}: {ex.Message}");
-                }
             }
             
         }
