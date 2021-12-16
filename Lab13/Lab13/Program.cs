@@ -204,7 +204,7 @@ namespace Lab13
             int counter = 0;
             log.Debug("counter = 0");
             log.Trace("start registration");
-            while (counter < 2)
+            while (counter < 4)
             {
                 log.Trace($"user №{counter}");
                 Console.Write("Enter login: ");
